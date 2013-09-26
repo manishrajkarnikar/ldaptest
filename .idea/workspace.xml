@@ -209,10 +209,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CacheableLdapAuthentionProvider.groovy" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CacheableLdapAuthentionProvider.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="6" selection-start="512" selection-end="512" vertical-scroll-proportion="0.33333334">
+            <state line="24" column="32" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#18#77#0" expanded="true" />
               </folding>
@@ -269,10 +269,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CacheTesterService.groovy" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="CacheTesterService.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/services/ldaptest/CacheTesterService.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="54" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
+            <state line="13" column="53" selection-start="472" selection-end="472" vertical-scroll-proportion="0.28940567">
               <folding>
                 <element signature="e#18#54#0" expanded="true" />
               </folding>
@@ -320,8 +320,8 @@
         <option value="$PROJECT_DIR$/grails-app/controllers/LoginController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/spring/resources.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/services/ldaptest/CacheTesterService.groovy" />
         <option value="$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/services/ldaptest/CacheTesterService.groovy" />
       </list>
     </option>
   </component>
@@ -1273,7 +1273,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1295,7 +1295,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31109926" sideWeight="0.47744775" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31109926" sideWeight="0.47744775" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.56969696" sideWeight="0.47738692" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4874372" sideWeight="0.6782284" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1471,20 +1471,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/services/ldaptest/CacheTesterService.groovy">
+    <entry file="file://$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="54" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
+        <state line="24" column="32" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#18#54#0" expanded="true" />
+            <element signature="e#18#77#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/services/ldaptest/CacheTesterService.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="6" selection-start="512" selection-end="512" vertical-scroll-proportion="0.33333334">
+        <state line="13" column="53" selection-start="472" selection-end="472" vertical-scroll-proportion="0.28940567">
           <folding>
-            <element signature="e#18#77#0" expanded="true" />
+            <element signature="e#18#54#0" expanded="true" />
           </folding>
         </state>
       </provider>

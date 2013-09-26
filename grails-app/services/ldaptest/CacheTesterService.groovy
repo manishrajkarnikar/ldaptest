@@ -11,7 +11,7 @@ class CacheTesterService {
     LdapAuthenticationProvider ldapAuthProvider
 
 
-    @Cacheable(value='authCache',key='#authentication1.principal')
+    @Cacheable(value='authCache',key='#authentication.principal')
     Authentication execute(Authentication authentication) throws AuthenticationException {
         return ldapAuthProvider.authenticate(authentication)
     }
