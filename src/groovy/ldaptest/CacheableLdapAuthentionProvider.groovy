@@ -1,5 +1,6 @@
 package ldaptest
 
+import grails.plugin.cache.Cacheable
 import org.codehaus.groovy.grails.commons.GrailsApplication
 import org.springframework.cache.CacheManager
 import org.springframework.context.MessageSource
@@ -17,13 +18,16 @@ class CacheableLdapAuthentionProvider implements AuthenticationProvider, Message
 
 
 
-
+    @Cacheable(value='authCache',key='#authentication.principal+#authentication.credentials')
     Authentication authenticate(Authentication authentication) throws AuthenticationException {
-        // this gets cached looks like
-        cacheTesterService.getName('manish')
-        // this does not get cached
-        cacheTesterService.execute(authentication)
-      //  grailsApplication.mainContext.cacheableLdapAuthentionProvider.execute(authentication)
+        try{
+            return ldapAuthenticationProvider.authenticate(authentication)
+        }
+        catch(Exception e){
+           println 'exception thrown'
+        }
+        return null
+
     }
 
     @Override

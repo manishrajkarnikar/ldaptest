@@ -130,7 +130,7 @@ grails.plugins.springsecurity.ldap.search.filter="cn={0}" // for Active Director
 //grails.plugins.springsecurity.ldap.search.filter="sAMAccountName={0}" // for Active Directory you need this
 grails.plugins.springsecurity.ldap.search.searchSubtree = true
 grails.plugins.springsecurity.ldap.auth.hideUserNotFoundExceptions = false
-grails.plugins.springsecurity.providerNames = ['cacheableLdapAuthentionProvider','ldapAuthProvider', 'anonymousAuthenticationProvider'] // specify this when you want to skip attempting to load from db and only use LDAP
+grails.plugins.springsecurity.providerNames = ['cacheableLdapAuthentionProvider','anonymousAuthenticationProvider'] // specify this when you want to skip attempting to load from db and only use LDAP
 // role-specific LDAP config
 grails.plugins.springsecurity.ldap.useRememberMe = false
 

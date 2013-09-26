@@ -7,16 +7,16 @@
     <ignored path="$USER_HOME$/.grails/" />
     <file path="/Student.groovy" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1379615220011" ignored="false" />
     <file path="/Config.groovy" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1380202799525" ignored="false" />
-    <file path="/a.dummy" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1380200930754" ignored="false" />
-    <file path="/Dummy.txt" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1380147819289" ignored="false" />
+    <file path="/a.dummy" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1380213597456" ignored="false" />
+    <file path="/Dummy.txt" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1380214132488" ignored="false" />
     <file path="/UserDAO.java" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1379683594700" ignored="false" />
     <file path="$USER_HOME$/Dropbox/Work/workspace/concurpay/src/com/concur/pay/dao/security/UserDAO.java" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1379683711267" ignored="false" />
     <file path="/CacheableLdapAuthentionProviderService.groovy" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1380132751951" ignored="false" />
     <file path="/fragment.java" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1380141997599" ignored="false" />
     <file path="/resources.groovy" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1380200370978" ignored="false" />
-    <file path="/CacheableLdapAuthentionProvider.groovy" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1380206391071" ignored="false" />
-    <file path="/Dummy.groovy" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1380205893163" ignored="false" />
-    <file path="/CacheTesterService.groovy" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1380206248773" ignored="false" />
+    <file path="/CacheableLdapAuthentionProvider.groovy" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1380209533035" ignored="false" />
+    <file path="/Dummy.groovy" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1380206705045" ignored="false" />
+    <file path="/CacheTesterService.groovy" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1380207210233" ignored="false" />
     <file path="/LoginController.groovy" changelist="066bc2d4-b5f6-4dd2-abe0-84e33e0d6665" time="1380147180369" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +100,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy" line="43" class="ldaptest.CacheableLdapAuthentionProvider" package="ldaptest">
+      <breakpoint url="file://$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy" line="47" class="CacheableLdapAuthentionProvider.groovy" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -115,7 +115,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy" line="24" class="ldaptest.CacheableLdapAuthentionProvider" package="ldaptest">
+      <breakpoint url="file://$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy" line="39" class="ldaptest.CacheableLdapAuthentionProvider" package="ldaptest">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -130,7 +130,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy" line="35" class="ldaptest.CacheableLdapAuthentionProvider" package="ldaptest">
+      <breakpoint url="file://$PROJECT_DIR$/grails-app/services/ldaptest/CacheTesterService.groovy" line="25" class="ldaptest.CacheTesterService" package="ldaptest">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -145,7 +145,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/grails-app/services/ldaptest/CacheTesterService.groovy" line="20" class="ldaptest.CacheTesterService" package="ldaptest">
+      <breakpoint url="file://$PROJECT_DIR$/grails-app/services/ldaptest/CacheTesterService.groovy" line="16" class="ldaptest.CacheTesterService" package="ldaptest">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -160,7 +160,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/grails-app/services/ldaptest/CacheTesterService.groovy" line="15" class="ldaptest.CacheTesterService" package="ldaptest">
+      <breakpoint url="file://$PROJECT_DIR$/grails-app/services/ldaptest/CacheTesterService.groovy" line="19" class="ldaptest.CacheTesterService" package="ldaptest">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -175,7 +175,22 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy" line="21" class="ldaptest.CacheableLdapAuthentionProvider" package="ldaptest">
+      <breakpoint url="file://$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy" line="23" class="ldaptest.CacheableLdapAuthentionProvider" package="ldaptest">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy" line="26" class="ldaptest.CacheableLdapAuthentionProvider" package="ldaptest">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -203,7 +218,16 @@
       <file leaf-file-name="Config.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="140" column="51" selection-start="6876" selection-end="6876" vertical-scroll-proportion="0.0">
+            <state line="132" column="81" selection-start="6508" selection-end="6508" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentController.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/ldaptest/StudentController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="25" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.4121212">
               <folding />
             </state>
           </provider>
@@ -212,67 +236,7 @@
       <file leaf-file-name="CacheableLdapAuthentionProvider.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="32" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#18#77#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GrailsEhcacheCache.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.grails/2.2.1/projects/ldaptest/plugins/cache-ehcache-1.0.0/src/java/grails/plugin/cache/ehcache/GrailsEhcacheCache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="46" selection-start="1103" selection-end="1103" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EhCacheCache.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/grails-2.2.1/lib/org.springframework/spring-context/jars/spring-context-3.1.4.RELEASE-sources.jar!/org/springframework/cache/ehcache/EhCacheCache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="13" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cache.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/grails-2.2.1/lib/org.springframework/spring-context/jars/spring-context-3.1.4.RELEASE-sources.jar!/org/springframework/cache/Cache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="17" selection-start="972" selection-end="972" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ehcache.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/grails-2.2.1/lib/net.sf.ehcache/ehcache-core/jars/ehcache-core-2.4.6.jar!/net/sf/ehcache/Ehcache.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="17" selection-start="161" selection-end="161" vertical-scroll-proportion="-1.36">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProviderManager.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-security-core-3.0.7.RELEASE-sources.jar!/org/springframework/security/authentication/ProviderManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="235" column="25" selection-start="11328" selection-end="11340" vertical-scroll-proportion="-4.88">
-              <folding>
-                <element signature="e#0#11961#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#11281#11311#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CacheTesterService.groovy" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grails-app/services/ldaptest/CacheTesterService.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="53" selection-start="472" selection-end="472" vertical-scroll-proportion="0.28940567">
+            <state line="35" column="49" selection-start="1344" selection-end="1344" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#18#54#0" expanded="true" />
               </folding>
@@ -280,23 +244,73 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cacheable.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.grails/2.2.1/projects/ldaptest/plugins/cache-1.0.0/src/java/grails/plugin/cache/Cacheable.java">
+      <file leaf-file-name="AuthenticationServiceException.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-security-core-3.0.7.RELEASE-sources.jar!/org/springframework/security/authentication/AuthenticationServiceException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="79" selection-start="1342" selection-end="1361" vertical-scroll-proportion="0.0">
+            <state line="36" column="25" selection-start="1384" selection-end="1384" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#1684#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BadCredentialsException.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-security-core-3.0.7.RELEASE-sources.jar!/org/springframework/security/authentication/BadCredentialsException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#1794#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProviderManager.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-security-core-3.0.7.RELEASE-sources.jar!/org/springframework/security/authentication/ProviderManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="121" column="36" selection-start="6769" selection-end="6769" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CacheTransformation.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.grails/2.2.1/projects/ldaptest/plugins/cache-1.0.0/src/java/grails/plugin/cache/compiler/CacheTransformation.java">
+      <file leaf-file-name="CacheTesterService.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/services/ldaptest/CacheTesterService.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="25" column="0" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#0#3268#0" expanded="true" />
-                <element signature="imports" expanded="true" />
+                <element signature="e#18#54#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LdapAuthenticationProvider.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-security-ldap-3.0.7.RELEASE-sources.jar!/org/springframework/security/ldap/authentication/LdapAuthenticationProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="229" column="26" selection-start="11748" selection-end="11748" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#15217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Authentication.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ideaLibSources/spring-security-core-3.0.7.RELEASE-sources.jar!/org/springframework/security/core/Authentication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="69" column="25" selection-start="3242" selection-end="3253" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Principal.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/security/Principal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="17" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -319,9 +333,9 @@
         <option value="$PROJECT_DIR$/grails-app/services/ldaptest/CacheableLdapAuthentionProviderService.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/LoginController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/spring/resources.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/services/ldaptest/CacheTesterService.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
         <option value="$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/services/ldaptest/CacheTesterService.groovy" />
       </list>
     </option>
   </component>
@@ -743,6 +757,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ldaptest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grails User Library (ldaptest)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-security-core-3.0.7.RELEASE.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="security" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="authentication" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -841,7 +881,59 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="security" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ldaptest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.6 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ldaptest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.6 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -942,6 +1034,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ldaptest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ldaptest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ldaptest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1296,7 +1410,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31109926" sideWeight="0.47744775" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.56969696" sideWeight="0.47738692" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20064034" sideWeight="0.47744775" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4874372" sideWeight="0.6782284" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1364,81 +1478,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/grails-2.2.1/lib/org.springframework/spring-context/jars/spring-context-3.1.4.RELEASE-sources.jar!/org/springframework/context/MessageSourceAware.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="17" selection-start="1215" selection-end="1215" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/spring/resources.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="51" selection-start="585" selection-end="585" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-security-ldap-3.0.7.RELEASE-sources.jar!/org/springframework/security/ldap/authentication/LdapAuthenticationProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="128" column="13" selection-start="7013" selection-end="7013" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#15217#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/grails-2.2.1/lib/org.codehaus.groovy/groovy-all/jars/groovy-all-2.0.7-sources.jar!/org/codehaus/groovy/ast/AnnotatedNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="16" selection-start="1514" selection-end="1514" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/grails-2.2.1/lib/org.codehaus.groovy/groovy-all/jars/groovy-all-2.0.7-sources.jar!/org/codehaus/groovy/ast/AnnotationNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="35" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="33" selection-start="1545" selection-end="1545" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.grails/2.2.1/projects/ldaptest/plugins/cache-1.0.0/src/java/grails/plugin/cache/compiler/CacheTransformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#3268#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.grails/2.2.1/projects/ldaptest/plugins/cache-1.0.0/src/java/grails/plugin/cache/Cacheable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="79" selection-start="1342" selection-end="1361" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-security-core-3.0.7.RELEASE-sources.jar!/org/springframework/security/authentication/ProviderManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="235" column="25" selection-start="11328" selection-end="11340" vertical-scroll-proportion="-4.88">
-          <folding>
-            <element signature="e#0#11961#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#11281#11311#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="51" selection-start="6876" selection-end="6876" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1471,21 +1513,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy">
+    <entry file="jar://C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/io/Serializable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="32" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.0">
+        <state line="151" column="17" selection-start="7557" selection-end="7557" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-security-core-3.0.7.RELEASE-sources.jar!/org/springframework/security/authentication/ProviderManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="121" column="36" selection-start="6769" selection-end="6769" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.6.0_45/src.zip!/java/security/Principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="17" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-security-core-3.0.7.RELEASE-sources.jar!/org/springframework/security/core/Authentication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="25" selection-start="3242" selection-end="3253" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-security-ldap-3.0.7.RELEASE-sources.jar!/org/springframework/security/ldap/authentication/LdapAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="229" column="26" selection-start="11748" selection-end="11748" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#18#77#0" expanded="true" />
+            <element signature="e#0#15217#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/services/ldaptest/CacheTesterService.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="53" selection-start="472" selection-end="472" vertical-scroll-proportion="0.28940567">
+        <state line="25" column="0" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#18#54#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-security-core-3.0.7.RELEASE-sources.jar!/org/springframework/security/authentication/BadCredentialsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#1794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/groovy/ldaptest/CacheableLdapAuthentionProvider.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="49" selection-start="1344" selection-end="1344" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#18#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-security-core-3.0.7.RELEASE-sources.jar!/org/springframework/security/authentication/AuthenticationServiceException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="25" selection-start="1384" selection-end="1384" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#1684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="81" selection-start="6508" selection-end="6508" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/ldaptest/StudentController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="25" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.4121212">
+          <folding />
         </state>
       </provider>
     </entry>
