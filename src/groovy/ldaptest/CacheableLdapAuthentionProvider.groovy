@@ -19,6 +19,9 @@ class CacheableLdapAuthentionProvider implements AuthenticationProvider, Message
 
 
     Authentication authenticate(Authentication authentication) throws AuthenticationException {
+        // this gets cached looks like
+        cacheTesterService.getName('manish')
+        // this does not get cached
         cacheTesterService.execute(authentication)
       //  grailsApplication.mainContext.cacheableLdapAuthentionProvider.execute(authentication)
     }
