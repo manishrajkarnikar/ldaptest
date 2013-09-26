@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ldaptest.iml" filepath="$PROJECT_DIR$/ldaptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ldaptest-grailsPlugins.iml" filepath="$PROJECT_DIR$/ldaptest-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
+
